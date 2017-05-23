@@ -17,6 +17,7 @@ react-redux
 #### APIs:  
 * [Google Cloud Vision API](https://cloud.google.com/vision/)
 * [Google Translate](https://cloud.google.com/translate/docs/)
+* [OED](https://developer.oxforddictionaries.com/) - limited requests for free version. use for spanish definitions
 * [Google Vision in javascript tutorial](http://terrenceryan.com/blog/index.php/working-with-cloud-vision-api-from-javascript/)
 
 #### Wireframes  
